@@ -23,6 +23,4 @@ npm run build
 - Vite
 - CSS
 
----
-
 Made for the upcoming launch of **Thidow**.
